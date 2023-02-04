@@ -6,7 +6,7 @@ import json
 import os
 import hashlib
 
-proxy = {"http": "http://127.0.0.1:7890", "https": "http://127.0.0.1:7890"}
+proxy = None
 
 def file_hash(file_path: str) -> str:
     h = hashlib.md5()
