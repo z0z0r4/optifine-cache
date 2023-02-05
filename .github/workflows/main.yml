@@ -42,9 +42,11 @@ jobs:
       
       - name: Commit changes
         run: |
+          ls
           git config --local user.email "github-bot@example.com"
           git config --local user.name "Github-Bot"
           git add .
+          git add cache
           git commit -m "Update Optifine"
       
       - name: Push changes
