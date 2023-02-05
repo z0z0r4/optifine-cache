@@ -1,0 +1,1658 @@
+{
+    "OptiFine_1.19.2_HD_U_I1": {
+        "version": "OptiFine HD U I1",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.19.2_HD_U_I1.jar",
+        "forge_version": "Forge 43.1.52",
+        "release_date": "13.12.2022",
+        "mc_version": "1.19.2",
+        "type": "release",
+        "hash": "23a9a9fa0a24bd214b868d06d2effe95"
+    },
+    "OptiFine_1.19.1_HD_U_H9": {
+        "version": "OptiFine HD U H9",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.19.1_HD_U_H9.jar",
+        "forge_version": "Forge 42.0.9",
+        "release_date": "20.08.2022",
+        "mc_version": "1.19.1",
+        "type": "release",
+        "hash": "7725d83f8278aa74de71b95bc3b2c2a6"
+    },
+    "OptiFine_1.19_HD_U_H9": {
+        "version": "OptiFine HD U H9",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.19_HD_U_H9.jar",
+        "forge_version": "Forge 41.1.0",
+        "release_date": "31.07.2022",
+        "mc_version": "1.19",
+        "type": "release",
+        "hash": "29e72b28a0808ea91be6d8df28ce316a"
+    },
+    "OptiFine_1.18.2_HD_U_H7": {
+        "version": "OptiFine HD U H7",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.18.2_HD_U_H7.jar",
+        "forge_version": "Forge 40.0.24",
+        "release_date": "10.04.2022",
+        "mc_version": "1.18.2",
+        "type": "release",
+        "hash": "9360659231b2334bde87c5f1106d406f"
+    },
+    "OptiFine_1.18.1_HD_U_H6": {
+        "version": "OptiFine HD U H6",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.18.1_HD_U_H6.jar",
+        "forge_version": "Forge #39.1.0",
+        "release_date": "24.03.2022",
+        "mc_version": "1.18.1",
+        "type": "release",
+        "hash": "6e278566d062d6532f3d69ed642efa58"
+    },
+    "OptiFine_1.18_HD_U_H3": {
+        "version": "OptiFine HD U H3",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.18_HD_U_H3.jar",
+        "forge_version": "Forge 38.0.14",
+        "release_date": "06.12.2021",
+        "mc_version": "1.18",
+        "type": "release",
+        "hash": "9743c3300113be1b081bd3f312459891"
+    },
+    "OptiFine_1.17.1_HD_U_H1": {
+        "version": "OptiFine HD U H1",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.17.1_HD_U_H1.jar",
+        "forge_version": "Forge 37.0.103",
+        "release_date": "03.11.2021",
+        "mc_version": "1.17.1",
+        "type": "release",
+        "hash": "ce4d0bc85481fc8e8ba10ab0106c9a5f"
+    },
+    "OptiFine_1.16.5_HD_U_G8": {
+        "version": "OptiFine HD U G8",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.16.5_HD_U_G8.jar",
+        "forge_version": "Forge 36.1.0",
+        "release_date": "15.05.2021",
+        "mc_version": "1.16.5",
+        "type": "release",
+        "hash": "e0717ba6d1674af83036ebc479fc77b4"
+    },
+    "OptiFine_1.16.4_HD_U_G7": {
+        "version": "OptiFine HD U G7",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.16.4_HD_U_G7.jar",
+        "forge_version": "Forge 35.1.37",
+        "release_date": "20.02.2021",
+        "mc_version": "1.16.4",
+        "type": "release",
+        "hash": "fe84aad0d9056b19692dcb5db9d9f2c9"
+    },
+    "OptiFine_1.16.3_HD_U_G5": {
+        "version": "OptiFine HD U G5",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.16.3_HD_U_G5.jar",
+        "forge_version": "Forge 34.1.42",
+        "release_date": "06.11.2020",
+        "mc_version": "1.16.3",
+        "type": "release",
+        "hash": "151ef269a78e80a74a3e3493120225fa"
+    },
+    "OptiFine_1.16.2_HD_U_G5": {
+        "version": "OptiFine HD U G5",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.16.2_HD_U_G5.jar",
+        "forge_version": "Forge 33.0.61",
+        "release_date": "06.11.2020",
+        "mc_version": "1.16.2",
+        "type": "release",
+        "hash": "7f4c566e5392687d54de21e6fe7ce4e4"
+    },
+    "OptiFine_1.16.1_HD_U_G2": {
+        "version": "OptiFine HD U G2",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.16.1_HD_U_G2.jar",
+        "forge_version": "Forge 32.0.98",
+        "release_date": "01.08.2020",
+        "mc_version": "1.16.1",
+        "type": "release",
+        "hash": "ef86ff22ecf29c2cb66967cfdaccee90"
+    },
+    "OptiFine_1.15.2_HD_U_G6": {
+        "version": "OptiFine HD U G6",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.15.2_HD_U_G6.jar",
+        "forge_version": "Forge 31.2.45",
+        "release_date": "24.01.2021",
+        "mc_version": "1.15.2",
+        "type": "release",
+        "hash": "d6eb5851db2284dacfdb2eb9fefbffba"
+    },
+    "OptiFine_1.14.4_HD_U_G5": {
+        "version": "OptiFine HD U G5",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.14.4_HD_U_G5.jar",
+        "forge_version": "Forge 28.2.23",
+        "release_date": "24.01.2021",
+        "mc_version": "1.14.4",
+        "type": "release",
+        "hash": "f70b2f406a616eaa1444010c490fd109"
+    },
+    "OptiFine_1.14.3_HD_U_F2": {
+        "version": "OptiFine HD U F2",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.14.3_HD_U_F2.jar",
+        "forge_version": "Forge N/A",
+        "release_date": "20.07.2019",
+        "mc_version": "1.14.3",
+        "type": "release",
+        "hash": "c92fbc267d0b87e67c50d1c70297166b"
+    },
+    "OptiFine_1.14.2_HD_U_F1": {
+        "version": "OptiFine HD U F1",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.14.2_HD_U_F1.jar",
+        "forge_version": "Forge N/A",
+        "release_date": "24.01.2021",
+        "mc_version": "1.14.2",
+        "type": "release",
+        "hash": "754c9ba339e838e7cbcb1a0832bd75e6"
+    },
+    "OptiFine_1.13.2_HD_U_G5": {
+        "version": "OptiFine HD U G5",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.13.2_HD_U_G5.jar",
+        "forge_version": "Forge N/A",
+        "release_date": "24.01.2021",
+        "mc_version": "1.13.2",
+        "type": "release",
+        "hash": "f87a2e057b3e8ec355a469a4a5fd1ce2"
+    },
+    "OptiFine_1.13.1_HD_U_E4": {
+        "version": "OptiFine HD U E4",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.13.1_HD_U_E4.jar",
+        "forge_version": "Forge N/A",
+        "release_date": "25.10.2018",
+        "mc_version": "1.13.1",
+        "type": "release",
+        "hash": "51dfcdbb6fe6a83b1c8a3e73d87c2d78"
+    },
+    "OptiFine_1.13_HD_U_E4": {
+        "version": "OptiFine HD U E4",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.13_HD_U_E4.jar",
+        "forge_version": "Forge N/A",
+        "release_date": "25.10.2018",
+        "mc_version": "1.13",
+        "type": "release",
+        "hash": "d6e57aeecfe121ce61acc84c2746e5e0"
+    },
+    "OptiFine_1.12.2_HD_U_G5": {
+        "version": "OptiFine HD U G5",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar",
+        "forge_version": "Forge #2847",
+        "release_date": "24.01.2021",
+        "mc_version": "1.12.2",
+        "type": "release",
+        "hash": "54e561e441192cf009803ae95873c5d0"
+    },
+    "OptiFine_1.12.1_HD_U_G5": {
+        "version": "OptiFine HD U G5",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.12.1_HD_U_G5.jar",
+        "forge_version": "Forge #2485",
+        "release_date": "24.01.2021",
+        "mc_version": "1.12.1",
+        "type": "release",
+        "hash": "2535e17fa164d7df056efb68e640fd65"
+    },
+    "OptiFine_1.12_HD_U_G5": {
+        "version": "OptiFine HD U G5",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.12_HD_U_G5.jar",
+        "forge_version": "Forge #2443",
+        "release_date": "24.01.2021",
+        "mc_version": "1.12",
+        "type": "release",
+        "hash": "37c07182fc4d36429520cbe87fddde02"
+    },
+    "OptiFine_1.11.2_HD_U_G5": {
+        "version": "OptiFine HD U G5",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.11.2_HD_U_G5.jar",
+        "forge_version": "Forge #2588",
+        "release_date": "24.01.2021",
+        "mc_version": "1.11.2",
+        "type": "release",
+        "hash": "8de776c1e46533cd46970a7d211472fc"
+    },
+    "OptiFine_1.11_HD_U_G5": {
+        "version": "OptiFine HD U G5",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.11_HD_U_G5.jar",
+        "forge_version": "Forge #2199",
+        "release_date": "24.01.2021",
+        "mc_version": "1.11",
+        "type": "release",
+        "hash": "87af9bdf0519e7b5cf18e01ae08578bc"
+    },
+    "OptiFine_1.10.2_HD_U_I5": {
+        "version": "OptiFine HD U I5",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.10.2_HD_U_I5.jar",
+        "forge_version": "Forge #2511",
+        "release_date": "24.01.2021",
+        "mc_version": "1.10.2",
+        "type": "release",
+        "hash": "274971697db081f7dcb34cdcbf41c95a"
+    },
+    "OptiFine_1.10_HD_U_I5": {
+        "version": "OptiFine HD U I5",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.10_HD_U_I5.jar",
+        "forge_version": "Forge #2000",
+        "release_date": "24.01.2021",
+        "mc_version": "1.10",
+        "type": "release",
+        "hash": "57d2c40d39e5ef3f49beb1b1e4811b33"
+    },
+    "OptiFine_1.9.4_HD_U_I5": {
+        "version": "OptiFine HD U I5",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.9.4_HD_U_I5.jar",
+        "forge_version": "Forge #2051",
+        "release_date": "24.01.2021",
+        "mc_version": "1.9.4",
+        "type": "release",
+        "hash": "e9a41296138ed91029e50fefee6f09a5"
+    },
+    "OptiFine_1.9.2_HD_U_E3": {
+        "version": "OptiFine HD U E3",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.9.2_HD_U_E3.jar",
+        "forge_version": "Forge N/A",
+        "release_date": "29.06.2017",
+        "mc_version": "1.9.2",
+        "type": "release",
+        "hash": "ff248f7f2fed53bf1c08336a14ca6a9d"
+    },
+    "OptiFine_1.9.0_HD_U_I5": {
+        "version": "OptiFine HD U I5",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.9.0_HD_U_I5.jar",
+        "forge_version": "Forge #1938",
+        "release_date": "24.01.2021",
+        "mc_version": "1.9.0",
+        "type": "release",
+        "hash": "c44708c51fab2dd321e5721987a58fd7"
+    },
+    "OptiFine_1.8.9_HD_U_M5": {
+        "version": "OptiFine HD U M5",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar",
+        "forge_version": "Forge #1902",
+        "release_date": "24.01.2021",
+        "mc_version": "1.8.9",
+        "type": "release",
+        "hash": "0765dc1bcbe5baa83f7c261ac2c133ed"
+    },
+    "OptiFine_1.8.8_HD_U_I7": {
+        "version": "OptiFine HD U I7",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_I7.jar",
+        "forge_version": "Forge #1655",
+        "release_date": "04.04.2018",
+        "mc_version": "1.8.8",
+        "type": "release",
+        "hash": "15afbc301c9413f76f85379b7359c5d0"
+    },
+    "OptiFine_1.8.0_HD_U_I7": {
+        "version": "OptiFine HD U I7",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_I7.jar",
+        "forge_version": "Forge #1577",
+        "release_date": "04.04.2018",
+        "mc_version": "1.8.0",
+        "type": "release",
+        "hash": "230637ed70d52d8b60d64dcb2572cb76"
+    },
+    "OptiFine_1.7.10_HD_U_E7": {
+        "version": "OptiFine HD U E7",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.7.10_HD_U_E7.jar",
+        "forge_version": "Forge #1614",
+        "release_date": "04.04.2018",
+        "mc_version": "1.7.10",
+        "type": "release",
+        "hash": "445062f5aaf982c36c72d90530c26850"
+    },
+    "OptiFine_1.7.2_HD_U_F7": {
+        "version": "OptiFine HD U F7",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.7.2_HD_U_F7.jar",
+        "forge_version": "Forge #1161",
+        "release_date": "04.04.2018",
+        "mc_version": "1.7.2",
+        "type": "release",
+        "hash": "035b7509f6d78a0ce91bfb3ea952c82f"
+    },
+    "OptiFine_1.19.2_HD_U_H9": {
+        "version": "OptiFine HD U H9",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.19.2_HD_U_H9.jar",
+        "forge_version": "Forge 43.1.1",
+        "release_date": "20.08.2022",
+        "mc_version": "1.19.2",
+        "type": "release",
+        "hash": "e7c4c8af14d48f4149ff2ed442eed05c"
+    },
+    "OptiFine_1.19_HD_U_H8": {
+        "version": "OptiFine HD U H8",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.19_HD_U_H8.jar",
+        "forge_version": "Forge 41.0.63",
+        "release_date": "09.07.2022",
+        "mc_version": "1.19",
+        "type": "release",
+        "hash": "5abefaa840d23d1ff261397b8c2c1217"
+    },
+    "OptiFine_1.18.2_HD_U_H6": {
+        "version": "OptiFine HD U H6",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.18.2_HD_U_H6.jar",
+        "forge_version": "Forge 40.0.12",
+        "release_date": "13.03.2022",
+        "mc_version": "1.18.2",
+        "type": "release",
+        "hash": "06593a441b4ac1f05304d1ea9c4d0fbe"
+    },
+    "OptiFine_1.18.1_HD_U_H5": {
+        "version": "OptiFine HD U H5",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.18.1_HD_U_H5.jar",
+        "forge_version": "Forge 39.0.66",
+        "release_date": "03.03.2022",
+        "mc_version": "1.18.1",
+        "type": "release",
+        "hash": "51e6820e4c0d2a7a9084a2e55b62faa5"
+    },
+    "OptiFine_1.18.1_HD_U_H4": {
+        "version": "OptiFine HD U H4",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.18.1_HD_U_H4.jar",
+        "forge_version": "Forge 39.0.0",
+        "release_date": "12.12.2021",
+        "mc_version": "1.18.1",
+        "type": "release",
+        "hash": "7eedac56f34c615838ee957366859d36"
+    },
+    "OptiFine_1.17.1_HD_U_G9": {
+        "version": "OptiFine HD U G9",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.17.1_HD_U_G9.jar",
+        "forge_version": "Forge N/A",
+        "release_date": "30.08.2021",
+        "mc_version": "1.17.1",
+        "type": "release",
+        "hash": "26e26517060aacfab1aa1751f4e1079d"
+    },
+    "OptiFine_1.16.5_HD_U_G7": {
+        "version": "OptiFine HD U G7",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.16.5_HD_U_G7.jar",
+        "forge_version": "Forge 36.0.42",
+        "release_date": "04.03.2021",
+        "mc_version": "1.16.5",
+        "type": "release",
+        "hash": "9d323219bdebf4e22a1d90f99f839cc0"
+    },
+    "OptiFine_1.16.5_HD_U_G6": {
+        "version": "OptiFine HD U G6",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.16.5_HD_U_G6.jar",
+        "forge_version": "Forge 36.0.0",
+        "release_date": "16.01.2021",
+        "mc_version": "1.16.5",
+        "type": "release",
+        "hash": "4a13bb8132744ab7beeff9f076d48125"
+    },
+    "OptiFine_1.16.4_HD_U_G6": {
+        "version": "OptiFine HD U G6",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.16.4_HD_U_G6.jar",
+        "forge_version": "Forge 35.1.36",
+        "release_date": "16.01.2021",
+        "mc_version": "1.16.4",
+        "type": "release",
+        "hash": "88e030a34aa9ec98904cca3691c853fb"
+    },
+    "OptiFine_1.16.4_HD_U_G5": {
+        "version": "OptiFine HD U G5",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.16.4_HD_U_G5.jar",
+        "forge_version": "Forge 35.0.1",
+        "release_date": "06.11.2020",
+        "mc_version": "1.16.4",
+        "type": "release",
+        "hash": "ca3cdce30bf731bbe34811ad0cc56cea"
+    },
+    "OptiFine_1.16.3_HD_U_G4": {
+        "version": "OptiFine HD U G4",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.16.3_HD_U_G4.jar",
+        "forge_version": "Forge 34.0.0",
+        "release_date": "02.11.2020",
+        "mc_version": "1.16.3",
+        "type": "release",
+        "hash": "598045038c55fdc2b65ce975733bac0d"
+    },
+    "OptiFine_1.16.3_HD_U_G3": {
+        "version": "OptiFine HD U G3",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.16.3_HD_U_G3.jar",
+        "forge_version": "Forge 34.0.0",
+        "release_date": "16.09.2020",
+        "mc_version": "1.16.3",
+        "type": "release",
+        "hash": "6f70931e11cd91337988813f270e1891"
+    },
+    "OptiFine_1.16.2_HD_U_G3": {
+        "version": "OptiFine HD U G3",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.16.2_HD_U_G3.jar",
+        "forge_version": "Forge 33.0.20",
+        "release_date": "29.08.2020",
+        "mc_version": "1.16.2",
+        "type": "release",
+        "hash": "0ecd18144e547a40dfae70fa58edc842"
+    },
+    "OptiFine_1.14.4_HD_U_F5": {
+        "version": "OptiFine HD U F5",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.14.4_HD_U_F5.jar",
+        "forge_version": "Forge 28.1.56",
+        "release_date": "04.12.2019",
+        "mc_version": "1.14.4",
+        "type": "release",
+        "hash": "5af106226d26a603d3a4859a4740069a"
+    },
+    "OptiFine_1.14.4_HD_U_F4": {
+        "version": "OptiFine HD U F4",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.14.4_HD_U_F4.jar",
+        "forge_version": "Forge 28.1.56",
+        "release_date": "25.10.2019",
+        "mc_version": "1.14.4",
+        "type": "release",
+        "hash": "8cb59ba35215f2d48facfb58ff27abbd"
+    },
+    "OptiFine_1.14.4_HD_U_F3": {
+        "version": "OptiFine HD U F3",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.14.4_HD_U_F3.jar",
+        "forge_version": "Forge N/A",
+        "release_date": "06.08.2019",
+        "mc_version": "1.14.4",
+        "type": "release",
+        "hash": "73c5d81f4ed0b2956f299b5a89a72fb2"
+    },
+    "OptiFine_1.14.4_HD_U_F2": {
+        "version": "OptiFine HD U F2",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.14.4_HD_U_F2.jar",
+        "forge_version": "Forge N/A",
+        "release_date": "25.07.2019",
+        "mc_version": "1.14.4",
+        "type": "release",
+        "hash": "e93eea0b5ffcf2ba40284e249a05e47d"
+    },
+    "OptiFine_1.14.3_HD_U_F1": {
+        "version": "OptiFine HD U F1",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.14.3_HD_U_F1.jar",
+        "forge_version": "Forge N/A",
+        "release_date": "28.06.2019",
+        "mc_version": "1.14.3",
+        "type": "release",
+        "hash": "4ed93c34f52b111706d77d582a8cc5dc"
+    },
+    "OptiFine_1.13.2_HD_U_F5": {
+        "version": "OptiFine HD U F5",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.13.2_HD_U_F5.jar",
+        "forge_version": "Forge N/A",
+        "release_date": "04.12.2019",
+        "mc_version": "1.13.2",
+        "type": "release",
+        "hash": "c12be63567910bb8964682cfd4b91f51"
+    },
+    "OptiFine_1.13.2_HD_U_E7": {
+        "version": "OptiFine HD U E7",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.13.2_HD_U_E7.jar",
+        "forge_version": "Forge N/A",
+        "release_date": "22.03.2019",
+        "mc_version": "1.13.2",
+        "type": "release",
+        "hash": "cbc08aa8a74d246c11b1e993de18e266"
+    },
+    "OptiFine_1.13.2_HD_U_E6": {
+        "version": "OptiFine HD U E6",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.13.2_HD_U_E6.jar",
+        "forge_version": "Forge N/A",
+        "release_date": "14.02.2019",
+        "mc_version": "1.13.2",
+        "type": "release",
+        "hash": "068d011b391a7467322ccd807e96e8a7"
+    },
+    "OptiFine_1.13.2_HD_U_E5": {
+        "version": "OptiFine HD U E5",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.13.2_HD_U_E5.jar",
+        "forge_version": "Forge N/A",
+        "release_date": "21.12.2018",
+        "mc_version": "1.13.2",
+        "type": "release",
+        "hash": "314315a261cdbb170f88cecd45a049cc"
+    },
+    "OptiFine_1.13.2_HD_U_E4": {
+        "version": "OptiFine HD U E4",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.13.2_HD_U_E4.jar",
+        "forge_version": "Forge N/A",
+        "release_date": "25.10.2018",
+        "mc_version": "1.13.2",
+        "type": "release",
+        "hash": "d51e4f7b4eaaf58cbb77c2be053851c2"
+    },
+    "OptiFine_1.13.1_HD_U_E3": {
+        "version": "OptiFine HD U E3",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.13.1_HD_U_E3.jar",
+        "forge_version": "Forge N/A",
+        "release_date": "18.10.2018",
+        "mc_version": "1.13.1",
+        "type": "release",
+        "hash": "06fa18cc7fbce634cf524851ad298586"
+    },
+    "OptiFine_1.12.2_HD_U_F5": {
+        "version": "OptiFine HD U F5",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_F5.jar",
+        "forge_version": "Forge #2847",
+        "release_date": "04.12.2019",
+        "mc_version": "1.12.2",
+        "type": "release",
+        "hash": "043ac1db6f7441ea4cf31bcb621aff0b"
+    },
+    "OptiFine_1.12.2_HD_U_F4": {
+        "version": "OptiFine HD U F4",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_F4.jar",
+        "forge_version": "Forge #2847",
+        "release_date": "23.10.2019",
+        "mc_version": "1.12.2",
+        "type": "release",
+        "hash": "ef171aa1bd8e1ac2f2c6c9843e424a45"
+    },
+    "OptiFine_1.12.2_HD_U_E3": {
+        "version": "OptiFine HD U E3",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_E3.jar",
+        "forge_version": "Forge #2795",
+        "release_date": "10.12.2018",
+        "mc_version": "1.12.2",
+        "type": "release",
+        "hash": "7ec95c57ac1a224d6eb93bd370e4ac37"
+    },
+    "OptiFine_1.12.2_HD_U_E2": {
+        "version": "OptiFine HD U E2",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_E2.jar",
+        "forge_version": "Forge #2729",
+        "release_date": "28.07.2018",
+        "mc_version": "1.12.2",
+        "type": "release",
+        "hash": "d5eb6eb63a260738c3aa7e981448451a"
+    },
+    "OptiFine_1.12.2_HD_U_E1": {
+        "version": "OptiFine HD U E1",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_E1.jar",
+        "forge_version": "Forge #2712",
+        "release_date": "28.06.2018",
+        "mc_version": "1.12.2",
+        "type": "release",
+        "hash": "22573c117dc15b6b2ad49d27101a38e3"
+    },
+    "OptiFine_1.12.2_HD_U_D3": {
+        "version": "OptiFine HD U D3",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_D3.jar",
+        "forge_version": "Forge #2691",
+        "release_date": "15.05.2018",
+        "mc_version": "1.12.2",
+        "type": "release",
+        "hash": "374a1e03b490afc539dabc04b29b49e6"
+    },
+    "OptiFine_1.12.2_HD_U_D2": {
+        "version": "OptiFine HD U D2",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_D2.jar",
+        "forge_version": "Forge #2673",
+        "release_date": "30.04.2018",
+        "mc_version": "1.12.2",
+        "type": "release",
+        "hash": "ac657cca26729c42d83b615a30b8f327"
+    },
+    "OptiFine_1.12.2_HD_U_D1": {
+        "version": "OptiFine HD U D1",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_D1.jar",
+        "forge_version": "Forge #2627",
+        "release_date": "23.03.2018",
+        "mc_version": "1.12.2",
+        "type": "release",
+        "hash": "4bfc1c95dde8ec08568e01bfaa61e7c5"
+    },
+    "OptiFine_1.12.2_HD_U_C9": {
+        "version": "OptiFine HD U C9",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_C9.jar",
+        "forge_version": "Forge #2615",
+        "release_date": "14.02.2018",
+        "mc_version": "1.12.2",
+        "type": "release",
+        "hash": "3f3d4e04f0abe548009535e6ad094adb"
+    },
+    "OptiFine_1.12.2_HD_U_C8": {
+        "version": "OptiFine HD U C8",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_C8.jar",
+        "forge_version": "Forge #2587",
+        "release_date": "10.01.2018",
+        "mc_version": "1.12.2",
+        "type": "release",
+        "hash": "4d9f34e3fb23ad5f4917fbe9e85623a0"
+    },
+    "OptiFine_1.12.2_HD_U_C7": {
+        "version": "OptiFine HD U C7",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_C7.jar",
+        "forge_version": "Forge #2555",
+        "release_date": "13.12.2017",
+        "mc_version": "1.12.2",
+        "type": "release",
+        "hash": "764b5b5a5d25f74443a7ff98a6d9171e"
+    },
+    "OptiFine_1.12.2_HD_U_C6": {
+        "version": "OptiFine HD U C6",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_C6.jar",
+        "forge_version": "Forge #2493",
+        "release_date": "03.10.2017",
+        "mc_version": "1.12.2",
+        "type": "release",
+        "hash": "6eb74ed1eda75803ba57702c88f5023e"
+    },
+    "OptiFine_1.12.2_HD_U_C5": {
+        "version": "OptiFine HD U C5",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_C5.jar",
+        "forge_version": "Forge N/A",
+        "release_date": "22.09.2017",
+        "mc_version": "1.12.2",
+        "type": "release",
+        "hash": "e67fa3489563f55329d1d88ccffa9c9d"
+    },
+    "OptiFine_1.12.1_HD_U_F5": {
+        "version": "OptiFine HD U F5",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.12.1_HD_U_F5.jar",
+        "forge_version": "Forge #2485",
+        "release_date": "04.12.2019",
+        "mc_version": "1.12.1",
+        "type": "release",
+        "hash": "c594c2ea939090b7b3d273049e6ee7d8"
+    },
+    "OptiFine_1.12.1_HD_U_C7": {
+        "version": "OptiFine HD U C7",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.12.1_HD_U_C7.jar",
+        "forge_version": "Forge #2485",
+        "release_date": "28.12.2017",
+        "mc_version": "1.12.1",
+        "type": "release",
+        "hash": "d49632cd49c0d4df7ffbab48fb51d859"
+    },
+    "OptiFine_1.12.1_HD_U_C6": {
+        "version": "OptiFine HD U C6",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.12.1_HD_U_C6.jar",
+        "forge_version": "Forge #2485",
+        "release_date": "03.10.2017",
+        "mc_version": "1.12.1",
+        "type": "release",
+        "hash": "fea06fcf75c863a1e0220bbbaca6dfa6"
+    },
+    "OptiFine_1.12.1_HD_U_C5": {
+        "version": "OptiFine HD U C5",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.12.1_HD_U_C5.jar",
+        "forge_version": "Forge #2446",
+        "release_date": "07.08.2017",
+        "mc_version": "1.12.1",
+        "type": "release",
+        "hash": "2a9f6c8f95644ab4c444cb24470772c6"
+    },
+    "OptiFine_1.12_HD_U_F5": {
+        "version": "OptiFine HD U F5",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.12_HD_U_F5.jar",
+        "forge_version": "Forge #2443",
+        "release_date": "04.12.2019",
+        "mc_version": "1.12",
+        "type": "release",
+        "hash": "6fdfe9bc90464ba1830984e155da507e"
+    },
+    "OptiFine_1.12_HD_U_C7": {
+        "version": "OptiFine HD U C7",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.12_HD_U_C7.jar",
+        "forge_version": "Forge #2443",
+        "release_date": "28.12.2017",
+        "mc_version": "1.12",
+        "type": "release",
+        "hash": "5b952b49c5b0e1e9698d9be1b8bb72fb"
+    },
+    "OptiFine_1.12_HD_U_C5": {
+        "version": "OptiFine HD U C5",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.12_HD_U_C5.jar",
+        "forge_version": "Forge #2424",
+        "release_date": "07.08.2017",
+        "mc_version": "1.12",
+        "type": "release",
+        "hash": "92df256e63c47e4f824e56ddfe24e34f"
+    },
+    "OptiFine_1.12_HD_U_C4": {
+        "version": "OptiFine HD U C4",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.12_HD_U_C4.jar",
+        "forge_version": "Forge #2387",
+        "release_date": "03.07.2017",
+        "mc_version": "1.12",
+        "type": "release",
+        "hash": "4a1a67757a6cd9c85c03f609550191d1"
+    },
+    "OptiFine_1.12_HD_U_C3": {
+        "version": "OptiFine HD U C3",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.12_HD_U_C3.jar",
+        "forge_version": "Forge #2331",
+        "release_date": "26.06.2017",
+        "mc_version": "1.12",
+        "type": "release",
+        "hash": "c3ed48e521c55fd2018d0dc2f43d0b70"
+    },
+    "OptiFine_1.12_HD_U_C2": {
+        "version": "OptiFine HD U C2",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.12_HD_U_C2.jar",
+        "forge_version": "Forge #2331",
+        "release_date": "18.06.2017",
+        "mc_version": "1.12",
+        "type": "release",
+        "hash": "86b242c68b189fd6af6578a69331c53d"
+    },
+    "OptiFine_1.11.2_HD_U_F5": {
+        "version": "OptiFine HD U F5",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.11.2_HD_U_F5.jar",
+        "forge_version": "Forge #2588",
+        "release_date": "04.12.2019",
+        "mc_version": "1.11.2",
+        "type": "release",
+        "hash": "0860e4670cafbca84dc9acdf0e890bf4"
+    },
+    "OptiFine_1.11.2_HD_U_C7": {
+        "version": "OptiFine HD U C7",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.11.2_HD_U_C7.jar",
+        "forge_version": "Forge #2530",
+        "release_date": "28.12.2017",
+        "mc_version": "1.11.2",
+        "type": "release",
+        "hash": "0dd7761e908f9b245bb0dc0fac5649f5"
+    },
+    "OptiFine_1.11.2_HD_U_C3": {
+        "version": "OptiFine HD U C3",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.11.2_HD_U_C3.jar",
+        "forge_version": "Forge #2366",
+        "release_date": "27.06.2017",
+        "mc_version": "1.11.2",
+        "type": "release",
+        "hash": "82f495594cd50e1fda7a8aa0246239fc"
+    },
+    "OptiFine_1.11.2_HD_U_C2": {
+        "version": "OptiFine HD U C2",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.11.2_HD_U_C2.jar",
+        "forge_version": "Forge #2311",
+        "release_date": "13.06.2017",
+        "mc_version": "1.11.2",
+        "type": "release",
+        "hash": "0810fbcb2d09a2800af400588e1e341b"
+    },
+    "OptiFine_1.11.2_HD_U_C1": {
+        "version": "OptiFine HD U C1",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.11.2_HD_U_C1.jar",
+        "forge_version": "Forge #2311",
+        "release_date": "02.06.2017",
+        "mc_version": "1.11.2",
+        "type": "release",
+        "hash": "9b0b199a3984df9e4a9d3c896fee68b3"
+    },
+    "OptiFine_1.11.2_HD_U_B9": {
+        "version": "OptiFine HD U B9",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.11.2_HD_U_B9.jar",
+        "forge_version": "Forge #2298",
+        "release_date": "18.05.2017",
+        "mc_version": "1.11.2",
+        "type": "release",
+        "hash": "38b4c51b9c6ebc09e7a9784accea974e"
+    },
+    "OptiFine_1.11.2_HD_U_B8": {
+        "version": "OptiFine HD U B8",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.11.2_HD_U_B8.jar",
+        "forge_version": "Forge #2294",
+        "release_date": "04.05.2017",
+        "mc_version": "1.11.2",
+        "type": "release",
+        "hash": "cf4da33e1014b1b77fea17d64668aff6"
+    },
+    "OptiFine_1.11.2_HD_U_B7": {
+        "version": "OptiFine HD U B7",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.11.2_HD_U_B7.jar",
+        "forge_version": "Forge #2227",
+        "release_date": "09.02.2017",
+        "mc_version": "1.11.2",
+        "type": "release",
+        "hash": "8c88f3b0e8b62088064814520e9d1c31"
+    },
+    "OptiFine_1.11.2_HD_U_B6": {
+        "version": "OptiFine HD U B6",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.11.2_HD_U_B6.jar",
+        "forge_version": "Forge #2214",
+        "release_date": "12.01.2017",
+        "mc_version": "1.11.2",
+        "type": "release",
+        "hash": "7d6a60a7e8262ad4e7bb473a78b30e8f"
+    },
+    "OptiFine_1.11.2_HD_U_B5": {
+        "version": "OptiFine HD U B5",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.11.2_HD_U_B5.jar",
+        "forge_version": "Forge N/A",
+        "release_date": "22.12.2016",
+        "mc_version": "1.11.2",
+        "type": "release",
+        "hash": "c2df3b1be3f038ca3cbe04f947e1d63e"
+    },
+    "OptiFine_1.11_HD_U_F5": {
+        "version": "OptiFine HD U F5",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.11_HD_U_F5.jar",
+        "forge_version": "Forge #2199",
+        "release_date": "04.12.2019",
+        "mc_version": "1.11",
+        "type": "release",
+        "hash": "608f802dfb9029b392119243cb29d2e3"
+    },
+    "OptiFine_1.11_HD_U_C7": {
+        "version": "OptiFine HD U C7",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.11_HD_U_C7.jar",
+        "forge_version": "Forge #2199",
+        "release_date": "28.12.2017",
+        "mc_version": "1.11",
+        "type": "release",
+        "hash": "cfd662c743a297c379e3cb3f9d7ea179"
+    },
+    "OptiFine_1.11_HD_U_C3": {
+        "version": "OptiFine HD U C3",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.11_HD_U_C3.jar",
+        "forge_version": "Forge #2199",
+        "release_date": "27.06.2017",
+        "mc_version": "1.11",
+        "type": "release",
+        "hash": "ca1f79ae8991f0265f131c038d424dfb"
+    },
+    "OptiFine_1.11_HD_U_B8": {
+        "version": "OptiFine HD U B8",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.11_HD_U_B8.jar",
+        "forge_version": "Forge #2199",
+        "release_date": "04.05.2017",
+        "mc_version": "1.11",
+        "type": "release",
+        "hash": "db7d11ab4e9c65732e5207ec2481015d"
+    },
+    "OptiFine_1.11_HD_U_B7": {
+        "version": "OptiFine HD U B7",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.11_HD_U_B7.jar",
+        "forge_version": "Forge #2199",
+        "release_date": "14.03.2017",
+        "mc_version": "1.11",
+        "type": "release",
+        "hash": "609645906c2dc7cf3100c66c921f5b40"
+    },
+    "OptiFine_1.11_HD_U_B6": {
+        "version": "OptiFine HD U B6",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.11_HD_U_B6.jar",
+        "forge_version": "Forge #2199",
+        "release_date": "12.01.2017",
+        "mc_version": "1.11",
+        "type": "release",
+        "hash": "6d3a04a1b97d3295400354a61e7d88ef"
+    },
+    "OptiFine_1.11_HD_U_B5": {
+        "version": "OptiFine HD U B5",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.11_HD_U_B5.jar",
+        "forge_version": "Forge #2198",
+        "release_date": "22.12.2016",
+        "mc_version": "1.11",
+        "type": "release",
+        "hash": "66bdd8813a417e384149d461e2499042"
+    },
+    "OptiFine_1.11_HD_U_B3": {
+        "version": "OptiFine HD U B3",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.11_HD_U_B3.jar",
+        "forge_version": "Forge #2188",
+        "release_date": "19.12.2016",
+        "mc_version": "1.11",
+        "type": "release",
+        "hash": "4f6fc506491416cf6b228fa893e219ca"
+    },
+    "OptiFine_1.11_HD_U_B2": {
+        "version": "OptiFine HD U B2",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.11_HD_U_B2.jar",
+        "forge_version": "Forge #2157",
+        "release_date": "01.12.2016",
+        "mc_version": "1.11",
+        "type": "release",
+        "hash": "cfb53cfd143f1ec7a41c5ae3b7e6fa6d"
+    },
+    "OptiFine_1.11_HD_U_B1": {
+        "version": "OptiFine HD U B1",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.11_HD_U_B1.jar",
+        "forge_version": "Forge #2157",
+        "release_date": "24.11.2016",
+        "mc_version": "1.11",
+        "type": "release",
+        "hash": "e3f65b0ff5c604ecaa0dfdd9b1ed0180"
+    },
+    "OptiFine_1.10.2_HD_U_H5": {
+        "version": "OptiFine HD U H5",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.10.2_HD_U_H5.jar",
+        "forge_version": "Forge #2511",
+        "release_date": "04.12.2019",
+        "mc_version": "1.10.2",
+        "type": "release",
+        "hash": "3f68d480ad76a3c1d58ec8060247c265"
+    },
+    "OptiFine_1.10.2_HD_U_E7": {
+        "version": "OptiFine HD U E7",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.10.2_HD_U_E7.jar",
+        "forge_version": "Forge #2511",
+        "release_date": "28.12.2017",
+        "mc_version": "1.10.2",
+        "type": "release",
+        "hash": "48214bd01d7db28527269003d7a7c3bc"
+    },
+    "OptiFine_1.10.2_HD_U_E3": {
+        "version": "OptiFine HD U E3",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.10.2_HD_U_E3.jar",
+        "forge_version": "Forge #2316",
+        "release_date": "29.06.2017",
+        "mc_version": "1.10.2",
+        "type": "release",
+        "hash": "7ea7d7c1e353da2a94961b443e59026f"
+    },
+    "OptiFine_1.10.2_HD_U_D8": {
+        "version": "OptiFine HD U D8",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.10.2_HD_U_D8.jar",
+        "forge_version": "Forge #2221",
+        "release_date": "04.05.2017",
+        "mc_version": "1.10.2",
+        "type": "release",
+        "hash": "d2a99a8d96d1067cb9e384bbdc560c70"
+    },
+    "OptiFine_1.10.2_HD_U_D7": {
+        "version": "OptiFine HD U D7",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.10.2_HD_U_D7.jar",
+        "forge_version": "Forge #2221",
+        "release_date": "14.03.2017",
+        "mc_version": "1.10.2",
+        "type": "release",
+        "hash": "033c214fa3cc2fc262ecddcd8c6e6be7"
+    },
+    "OptiFine_1.10.2_HD_U_D6": {
+        "version": "OptiFine HD U D6",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.10.2_HD_U_D6.jar",
+        "forge_version": "Forge #2209",
+        "release_date": "12.01.2017",
+        "mc_version": "1.10.2",
+        "type": "release",
+        "hash": "5ddc398816756f98546726828b48db74"
+    },
+    "OptiFine_1.10.2_HD_U_D4": {
+        "version": "OptiFine HD U D4",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.10.2_HD_U_D4.jar",
+        "forge_version": "Forge #2151",
+        "release_date": "24.11.2016",
+        "mc_version": "1.10.2",
+        "type": "release",
+        "hash": "e3476f63f3fb32f32fad848afb23ef62"
+    },
+    "OptiFine_1.10.2_HD_U_D3": {
+        "version": "OptiFine HD U D3",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.10.2_HD_U_D3.jar",
+        "forge_version": "Forge #2125",
+        "release_date": "16.11.2016",
+        "mc_version": "1.10.2",
+        "type": "release",
+        "hash": "f68ad65afc95d4d14204be81f2bb3e07"
+    },
+    "OptiFine_1.10.2_HD_U_D2": {
+        "version": "OptiFine HD U D2",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.10.2_HD_U_D2.jar",
+        "forge_version": "Forge #2099",
+        "release_date": "28.10.2016",
+        "mc_version": "1.10.2",
+        "type": "release",
+        "hash": "5d323b7e29f3c5707e918d5b27409265"
+    },
+    "OptiFine_1.10.2_HD_U_D1": {
+        "version": "OptiFine HD U D1",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.10.2_HD_U_D1.jar",
+        "forge_version": "Forge #2099",
+        "release_date": "17.10.2016",
+        "mc_version": "1.10.2",
+        "type": "release",
+        "hash": "3b2e8946f62342b6977e41d29da38084"
+    },
+    "OptiFine_1.10.2_HD_U_C3": {
+        "version": "OptiFine HD U C3",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.10.2_HD_U_C3.jar",
+        "forge_version": "Forge #2073",
+        "release_date": "25.08.2016",
+        "mc_version": "1.10.2",
+        "type": "release",
+        "hash": "d2f0e5c802a1249d373e3240e56664aa"
+    },
+    "OptiFine_1.10.2_HD_U_C2": {
+        "version": "OptiFine HD U C2",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.10.2_HD_U_C2.jar",
+        "forge_version": "Forge #2002",
+        "release_date": "06.07.2016",
+        "mc_version": "1.10.2",
+        "type": "release",
+        "hash": "0f7c2a9b052a750aa4e3551125c7d216"
+    },
+    "OptiFine_1.10.2_HD_U_C1": {
+        "version": "OptiFine HD U C1",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.10.2_HD_U_C1.jar",
+        "forge_version": "Forge #2002",
+        "release_date": "30.06.2016",
+        "mc_version": "1.10.2",
+        "type": "release",
+        "hash": "df4b049379df3ba1950c18561a47add7"
+    },
+    "OptiFine_1.10_HD_U_H5": {
+        "version": "OptiFine HD U H5",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.10_HD_U_H5.jar",
+        "forge_version": "Forge #2000",
+        "release_date": "04.12.2019",
+        "mc_version": "1.10",
+        "type": "release",
+        "hash": "77deeae4f9f8dc06038b6a79d305c737"
+    },
+    "OptiFine_1.10_HD_U_E7": {
+        "version": "OptiFine HD U E7",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.10_HD_U_E7.jar",
+        "forge_version": "Forge #2000",
+        "release_date": "28.12.2017",
+        "mc_version": "1.10",
+        "type": "release",
+        "hash": "7341fb3e1efeda7dc277c13fd8b766fe"
+    },
+    "OptiFine_1.10_HD_U_E3": {
+        "version": "OptiFine HD U E3",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.10_HD_U_E3.jar",
+        "forge_version": "Forge #2000",
+        "release_date": "29.06.2017",
+        "mc_version": "1.10",
+        "type": "release",
+        "hash": "4316344a7f9d51566ef65494468606fa"
+    },
+    "OptiFine_1.10_HD_U_D8": {
+        "version": "OptiFine HD U D8",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.10_HD_U_D8.jar",
+        "forge_version": "Forge #2000",
+        "release_date": "04.05.2017",
+        "mc_version": "1.10",
+        "type": "release",
+        "hash": "78fb1c48d75e6b5bad78b7c669fa18f5"
+    },
+    "OptiFine_1.10_HD_U_D7": {
+        "version": "OptiFine HD U D7",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.10_HD_U_D7.jar",
+        "forge_version": "Forge #2000",
+        "release_date": "14.03.2017",
+        "mc_version": "1.10",
+        "type": "release",
+        "hash": "5493c98dcd9b988723dce4de3f6da04f"
+    },
+    "OptiFine_1.10_HD_U_C1": {
+        "version": "OptiFine HD U C1",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.10_HD_U_C1.jar",
+        "forge_version": "Forge #2000",
+        "release_date": "30.06.2016",
+        "mc_version": "1.10",
+        "type": "release",
+        "hash": "61f0ec14801af60d368c1b2020fb1c4a"
+    },
+    "OptiFine_1.10_HD_U_B7": {
+        "version": "OptiFine HD U B7",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.10_HD_U_B7.jar",
+        "forge_version": "Forge N/A",
+        "release_date": "24.06.2016",
+        "mc_version": "1.10",
+        "type": "release",
+        "hash": "b5559b17ced8e0bb1b71956c23fab208"
+    },
+    "OptiFine_1.10_HD_U_B6": {
+        "version": "OptiFine HD U B6",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.10_HD_U_B6.jar",
+        "forge_version": "Forge N/A",
+        "release_date": "15.06.2016",
+        "mc_version": "1.10",
+        "type": "release",
+        "hash": "4b3d896d41442bdb598fc42de3e813ca"
+    },
+    "OptiFine_1.9.4_HD_U_H5": {
+        "version": "OptiFine HD U H5",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.9.4_HD_U_H5.jar",
+        "forge_version": "Forge #2051",
+        "release_date": "04.12.2019",
+        "mc_version": "1.9.4",
+        "type": "release",
+        "hash": "580f08860d8319431dcc0ddb41e861c9"
+    },
+    "OptiFine_1.9.4_HD_U_E7": {
+        "version": "OptiFine HD U E7",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.9.4_HD_U_E7.jar",
+        "forge_version": "Forge #2051",
+        "release_date": "28.12.2017",
+        "mc_version": "1.9.4",
+        "type": "release",
+        "hash": "69b69f63b96028a1639eda75e94506e3"
+    },
+    "OptiFine_1.9.4_HD_U_E3": {
+        "version": "OptiFine HD U E3",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.9.4_HD_U_E3.jar",
+        "forge_version": "Forge #2051",
+        "release_date": "29.06.2017",
+        "mc_version": "1.9.4",
+        "type": "release",
+        "hash": "31b536becc498abb16b40685bedab236"
+    },
+    "OptiFine_1.9.4_HD_U_D8": {
+        "version": "OptiFine HD U D8",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.9.4_HD_U_D8.jar",
+        "forge_version": "Forge #2051",
+        "release_date": "04.05.2017",
+        "mc_version": "1.9.4",
+        "type": "release",
+        "hash": "79d739938fd6f721cc431af1a0594c06"
+    },
+    "OptiFine_1.9.4_HD_U_D7": {
+        "version": "OptiFine HD U D7",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.9.4_HD_U_D7.jar",
+        "forge_version": "Forge #2051",
+        "release_date": "14.03.2017",
+        "mc_version": "1.9.4",
+        "type": "release",
+        "hash": "a4dbebfad8958e948cf5bba6744bb1ca"
+    },
+    "OptiFine_1.9.4_HD_U_B6": {
+        "version": "OptiFine HD U B6",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.9.4_HD_U_B6.jar",
+        "forge_version": "Forge #1987",
+        "release_date": "30.06.2016",
+        "mc_version": "1.9.4",
+        "type": "release",
+        "hash": "7f5c8a26944d1a453f18ecf069437259"
+    },
+    "OptiFine_1.9.4_HD_U_B5": {
+        "version": "OptiFine HD U B5",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.9.4_HD_U_B5.jar",
+        "forge_version": "Forge #1937",
+        "release_date": "07.06.2016",
+        "mc_version": "1.9.4",
+        "type": "release",
+        "hash": "034500c2a1cc59f9af7009145bc83217"
+    },
+    "OptiFine_1.9.4_HD_U_B4": {
+        "version": "OptiFine HD U B4",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.9.4_HD_U_B4.jar",
+        "forge_version": "Forge #1909",
+        "release_date": "19.05.2016",
+        "mc_version": "1.9.4",
+        "type": "release",
+        "hash": "e0dfcd7f873047d72b40216def1f8d69"
+    },
+    "OptiFine_1.9.2_HD_U_D8": {
+        "version": "OptiFine HD U D8",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.9.2_HD_U_D8.jar",
+        "forge_version": "Forge N/A",
+        "release_date": "04.05.2017",
+        "mc_version": "1.9.2",
+        "type": "release",
+        "hash": "02ce57780e1110223cec85161f949bcd"
+    },
+    "OptiFine_1.9.2_HD_U_D7": {
+        "version": "OptiFine HD U D7",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.9.2_HD_U_D7.jar",
+        "forge_version": "Forge N/A",
+        "release_date": "16.03.2017",
+        "mc_version": "1.9.2",
+        "type": "release",
+        "hash": "053c3fe5c4c05651565a515bc2d07184"
+    },
+    "OptiFine_1.9.2_HD_U_B3": {
+        "version": "OptiFine HD U B3",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.9.2_HD_U_B3.jar",
+        "forge_version": "Forge N/A",
+        "release_date": "13.05.2016",
+        "mc_version": "1.9.2",
+        "type": "release",
+        "hash": "2ab6bc3b19e0abf6b50d37086741b96e"
+    },
+    "OptiFine_1.9.2_HD_U_B2": {
+        "version": "OptiFine HD U B2",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.9.2_HD_U_B2.jar",
+        "forge_version": "Forge #1863",
+        "release_date": "27.04.2016",
+        "mc_version": "1.9.2",
+        "type": "release",
+        "hash": "54cc4022755a56737318201cbcaf1f8e"
+    },
+    "OptiFine_1.9.2_HD_U_B1": {
+        "version": "OptiFine HD U B1",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.9.2_HD_U_B1.jar",
+        "forge_version": "Forge N/A",
+        "release_date": "02.04.2016",
+        "mc_version": "1.9.2",
+        "type": "release",
+        "hash": "88e2d691a38631da9291d91b52d40df2"
+    },
+    "OptiFine_1.9.0_HD_U_H5": {
+        "version": "OptiFine HD U H5",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.9.0_HD_U_H5.jar",
+        "forge_version": "Forge #1938",
+        "release_date": "04.12.2019",
+        "mc_version": "1.9.0",
+        "type": "release",
+        "hash": "4c0f2befa58faee9c0e7fe9eff8a33ce"
+    },
+    "OptiFine_1.9.0_HD_U_E7": {
+        "version": "OptiFine HD U E7",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.9.0_HD_U_E7.jar",
+        "forge_version": "Forge #1938",
+        "release_date": "29.12.2017",
+        "mc_version": "1.9.0",
+        "type": "release",
+        "hash": "a93ec9c2cac0bb332cb57280a2634c0e"
+    },
+    "OptiFine_1.9.0_HD_U_E3": {
+        "version": "OptiFine HD U E3",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.9.0_HD_U_E3.jar",
+        "forge_version": "Forge #1938",
+        "release_date": "29.06.2017",
+        "mc_version": "1.9.0",
+        "type": "release",
+        "hash": "5335a2e395301c363183a340ba98b912"
+    },
+    "OptiFine_1.9.0_HD_U_D8": {
+        "version": "OptiFine HD U D8",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.9.0_HD_U_D8.jar",
+        "forge_version": "Forge #1938",
+        "release_date": "04.05.2017",
+        "mc_version": "1.9.0",
+        "type": "release",
+        "hash": "60a554a4da0d691ecdda7ebeeb5713c8"
+    },
+    "OptiFine_1.9.0_HD_U_D7": {
+        "version": "OptiFine HD U D7",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.9.0_HD_U_D7.jar",
+        "forge_version": "Forge #1938",
+        "release_date": "14.03.2017",
+        "mc_version": "1.9.0",
+        "type": "release",
+        "hash": "0fa9943f56a23e72b33392146ecc862f"
+    },
+    "OptiFine_1.9.0_HD_U_B5": {
+        "version": "OptiFine HD U B5",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.9.0_HD_U_B5.jar",
+        "forge_version": "Forge #1907",
+        "release_date": "07.06.2016",
+        "mc_version": "1.9.0",
+        "type": "release",
+        "hash": "dd52ab1f6cb9189e121fd4e487eb4f0e"
+    },
+    "OptiFine_1.9.0_HD_U_B3": {
+        "version": "OptiFine HD U B3",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.9.0_HD_U_B3.jar",
+        "forge_version": "Forge #1867",
+        "release_date": "13.05.2016",
+        "mc_version": "1.9.0",
+        "type": "release",
+        "hash": "5ba1b45c87bc177e6954cbb043be5672"
+    },
+    "OptiFine_1.9.0_HD_U_B2": {
+        "version": "OptiFine HD U B2",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.9.0_HD_U_B2.jar",
+        "forge_version": "Forge #1863",
+        "release_date": "27.04.2016",
+        "mc_version": "1.9.0",
+        "type": "release",
+        "hash": "33be5c49708df245f5af8f7e22391d5c"
+    },
+    "OptiFine_1.9.0_HD_U_B1": {
+        "version": "OptiFine HD U B1",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.9.0_HD_U_B1.jar",
+        "forge_version": "Forge #1797",
+        "release_date": "26.03.2016",
+        "mc_version": "1.9.0",
+        "type": "release",
+        "hash": "2dd2e110936a9cee6a2f0b424bfc3962"
+    },
+    "OptiFine_1.8.9_HD_U_L5": {
+        "version": "OptiFine HD U L5",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_L5.jar",
+        "forge_version": "Forge #1902",
+        "release_date": "04.12.2019",
+        "mc_version": "1.8.9",
+        "type": "release",
+        "hash": "2332fcdb59ca0e4ee79cddf8fe114d25"
+    },
+    "OptiFine_1.8.9_HD_U_I7": {
+        "version": "OptiFine HD U I7",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_I7.jar",
+        "forge_version": "Forge #1902",
+        "release_date": "04.04.2018",
+        "mc_version": "1.8.9",
+        "type": "release",
+        "hash": "3fe9651067eb2530bec631af15c8e1ac"
+    },
+    "OptiFine_1.8.9_HD_U_I3": {
+        "version": "OptiFine HD U I3",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_I3.jar",
+        "forge_version": "Forge #1902",
+        "release_date": "26.10.2017",
+        "mc_version": "1.8.9",
+        "type": "release",
+        "hash": "92e68fb3738502c6ab27bac2f358fb44"
+    },
+    "OptiFine_1.8.9_HD_U_H8": {
+        "version": "OptiFine HD U H8",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_H8.jar",
+        "forge_version": "Forge #1902",
+        "release_date": "04.05.2017",
+        "mc_version": "1.8.9",
+        "type": "release",
+        "hash": "13933adca19223da6c8edfd2a1b55a28"
+    },
+    "OptiFine_1.8.9_HD_U_H7": {
+        "version": "OptiFine HD U H7",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_H7.jar",
+        "forge_version": "Forge #1902",
+        "release_date": "14.03.2017",
+        "mc_version": "1.8.9",
+        "type": "release",
+        "hash": "1d6e395928ac2a299459f0c4eeb03cda"
+    },
+    "OptiFine_1.8.9_HD_U_H6": {
+        "version": "OptiFine HD U H6",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_H6.jar",
+        "forge_version": "Forge #1902",
+        "release_date": "07.06.2016",
+        "mc_version": "1.8.9",
+        "type": "release",
+        "hash": "5601a893101948a76cfbdf413b1f6a47"
+    },
+    "OptiFine_1.8.9_HD_U_H5": {
+        "version": "OptiFine HD U H5",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_H5.jar",
+        "forge_version": "Forge #1764",
+        "release_date": "20.03.2016",
+        "mc_version": "1.8.9",
+        "type": "release",
+        "hash": "c793436f33d1d41e9c5e1a9414932474"
+    },
+    "OptiFine_1.8.8_HD_U_I3": {
+        "version": "OptiFine HD U I3",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_I3.jar",
+        "forge_version": "Forge #1902",
+        "release_date": "26.10.2017",
+        "mc_version": "1.8.8",
+        "type": "release",
+        "hash": "22db53fef55dbbb358c3adafe0dde48a"
+    },
+    "OptiFine_1.8.8_HD_U_H8": {
+        "version": "OptiFine HD U H8",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_H8.jar",
+        "forge_version": "Forge #1655",
+        "release_date": "04.05.2017",
+        "mc_version": "1.8.8",
+        "type": "release",
+        "hash": "0854f357f4237f9b7f9f32bdf0f327bc"
+    },
+    "OptiFine_1.8.8_HD_U_H7": {
+        "version": "OptiFine HD U H7",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_H7.jar",
+        "forge_version": "Forge #1655",
+        "release_date": "15.03.2017",
+        "mc_version": "1.8.8",
+        "type": "release",
+        "hash": "e889b8bcee71462cfd1ec63e8b841069"
+    },
+    "OptiFine_1.8.8_HD_U_H6": {
+        "version": "OptiFine HD U H6",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_H6.jar",
+        "forge_version": "Forge #1655",
+        "release_date": "07.06.2016",
+        "mc_version": "1.8.8",
+        "type": "release",
+        "hash": "66222f599e48a48fa06cfd16cfd2ba9e"
+    },
+    "OptiFine_1.8.8_HD_U_H5": {
+        "version": "OptiFine HD U H5",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_H5.jar",
+        "forge_version": "Forge #1655",
+        "release_date": "20.03.2016",
+        "mc_version": "1.8.8",
+        "type": "release",
+        "hash": "db7728c707d55c022ae4a00a80021889"
+    },
+    "OptiFine_1.8.0_HD_U_I3": {
+        "version": "OptiFine HD U I3",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_I3.jar",
+        "forge_version": "Forge #1577",
+        "release_date": "26.10.2017",
+        "mc_version": "1.8.0",
+        "type": "release",
+        "hash": "9ad2b50a2b57379d226c7c01158fa06f"
+    },
+    "OptiFine_1.8.0_HD_U_H8": {
+        "version": "OptiFine HD U H8",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_H8.jar",
+        "forge_version": "Forge #1577",
+        "release_date": "04.05.2017",
+        "mc_version": "1.8.0",
+        "type": "release",
+        "hash": "c12b34f3a66d31e5b92f43a249a28a8b"
+    },
+    "OptiFine_1.8.0_HD_U_H7": {
+        "version": "OptiFine HD U H7",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_H7.jar",
+        "forge_version": "Forge #1577",
+        "release_date": "14.03.2017",
+        "mc_version": "1.8.0",
+        "type": "release",
+        "hash": "b392a0d0ef66ea28a4a8b5e246e6a483"
+    },
+    "OptiFine_1.8.0_HD_U_H6": {
+        "version": "OptiFine HD U H6",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_H6.jar",
+        "forge_version": "Forge #1577",
+        "release_date": "07.06.2016",
+        "mc_version": "1.8.0",
+        "type": "release",
+        "hash": "36bd4807cc66725bd51dfdc744360cf6"
+    },
+    "OptiFine_1.8.0_HD_U_H5": {
+        "version": "OptiFine HD U H5",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_H5.jar",
+        "forge_version": "Forge #1577",
+        "release_date": "20.03.2016",
+        "mc_version": "1.8.0",
+        "type": "release",
+        "hash": "e2c10e59a0a7093af01cb847e807f796"
+    },
+    "OptiFine_1.7.10_HD_U_E3": {
+        "version": "OptiFine HD U E3",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.7.10_HD_U_E3.jar",
+        "forge_version": "Forge #1614",
+        "release_date": "29.12.2017",
+        "mc_version": "1.7.10",
+        "type": "release",
+        "hash": "eb45e607338a8b3f4f4963e2152e1aeb"
+    },
+    "OptiFine_1.7.10_HD_U_D8": {
+        "version": "OptiFine HD U D8",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.7.10_HD_U_D8.jar",
+        "forge_version": "Forge #1614",
+        "release_date": "04.05.2017",
+        "mc_version": "1.7.10",
+        "type": "release",
+        "hash": "2bb2ceddc6ffeab1b267c6eff86f7be0"
+    },
+    "OptiFine_1.7.10_HD_U_D7": {
+        "version": "OptiFine HD U D7",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.7.10_HD_U_D7.jar",
+        "forge_version": "Forge #1614",
+        "release_date": "14.03.2017",
+        "mc_version": "1.7.10",
+        "type": "release",
+        "hash": "e212786e135d4f21fa5fb65b1c8e0644"
+    },
+    "OptiFine_1.7.10_HD_U_D6": {
+        "version": "OptiFine HD U D6",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.7.10_HD_U_D6.jar",
+        "forge_version": "Forge #1614",
+        "release_date": "29.06.2016",
+        "mc_version": "1.7.10",
+        "type": "release",
+        "hash": "a287d0b19de2de30892efc3b52468032"
+    },
+    "OptiFine_1.7.10_HD_U_D4": {
+        "version": "OptiFine HD U D4",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.7.10_HD_U_D4.jar",
+        "forge_version": "Forge #1614",
+        "release_date": "28.04.2016",
+        "mc_version": "1.7.10",
+        "type": "release",
+        "hash": "5a3b1261ada4b619cb7245f163a6dc6c"
+    },
+    "OptiFine_1.7.10_HD_U_D3": {
+        "version": "OptiFine HD U D3",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.7.10_HD_U_D3.jar",
+        "forge_version": "Forge #1614",
+        "release_date": "20.03.2016",
+        "mc_version": "1.7.10",
+        "type": "release",
+        "hash": "c554cec9d2b2dff8f4140d5bbf661d7d"
+    },
+    "OptiFine_1.7.2_HD_U_F3": {
+        "version": "OptiFine HD U F3",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.7.2_HD_U_F3.jar",
+        "forge_version": "Forge #1161",
+        "release_date": "26.10.2017",
+        "mc_version": "1.7.2",
+        "type": "release",
+        "hash": "390e0e14560e84c64d33b281e22aafff"
+    },
+    "OptiFine_1.7.2_HD_U_E8": {
+        "version": "OptiFine HD U E8",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.7.2_HD_U_E8.jar",
+        "forge_version": "Forge #1161",
+        "release_date": "04.05.2017",
+        "mc_version": "1.7.2",
+        "type": "release",
+        "hash": "c8492acc8a68f914a0342852a23ac6a9"
+    },
+    "OptiFine_1.7.2_HD_U_E7": {
+        "version": "OptiFine HD U E7",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.7.2_HD_U_E7.jar",
+        "forge_version": "Forge #1161",
+        "release_date": "16.03.2017",
+        "mc_version": "1.7.2",
+        "type": "release",
+        "hash": "f401fac8dba710673551ea3ea2586372"
+    },
+    "OptiFine_1.7.2_HD_U_E4": {
+        "version": "OptiFine HD U E4",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.7.2_HD_U_E4.jar",
+        "forge_version": "Forge #1161",
+        "release_date": "28.04.2016",
+        "mc_version": "1.7.2",
+        "type": "release",
+        "hash": "19bdd2df5e7b2cb7ce9df80c9dc91d1a"
+    },
+    "OptiFine_1.7.2_HD_U_E3": {
+        "version": "OptiFine HD U E3",
+        "download_url": "http://optifine.net/adloadx?f=OptiFine_1.7.2_HD_U_E3.jar",
+        "forge_version": "Forge #1161",
+        "release_date": "20.03.2016",
+        "mc_version": "1.7.2",
+        "type": "release",
+        "hash": "8ed7c8c5bc02fe31a4bf52b63ffecd4c"
+    },
+    "preview_OptiFine_1.19.3_HD_U_I2_pre3": {
+        "version": "OptiFine HD U I2 pre3",
+        "download_url": "http://optifine.net/adloadx?f=preview_OptiFine_1.19.3_HD_U_I2_pre3.jar",
+        "forge_version": "Forge N/A",
+        "release_date": "30.01.2023",
+        "mc_version": "1.19.3",
+        "type": "pre",
+        "hash": "0a5031b207aa586f3ea383296c943310"
+    },
+    "preview_OptiFine_1.19.3_HD_U_I2_pre2": {
+        "version": "OptiFine HD U I2 pre2",
+        "download_url": "http://optifine.net/adloadx?f=preview_OptiFine_1.19.3_HD_U_I2_pre2.jar",
+        "forge_version": "Forge N/A",
+        "release_date": "22.01.2023",
+        "mc_version": "1.19.3",
+        "type": "pre",
+        "hash": "2680fce0d8122d7a78a8e78bb8b7137d"
+    },
+    "preview_OptiFine_1.19.3_HD_U_I2_pre1": {
+        "version": "OptiFine HD U I2 pre1",
+        "download_url": "http://optifine.net/adloadx?f=preview_OptiFine_1.19.3_HD_U_I2_pre1.jar",
+        "forge_version": "Forge N/A",
+        "release_date": "22.01.2023",
+        "mc_version": "1.19.3",
+        "type": "pre",
+        "hash": "d86f1afca072a41b5e23c94772227556"
+    },
+    "preview_OptiFine_1.18.2_HD_U_H9_pre2": {
+        "version": "OptiFine HD U H9 pre2",
+        "download_url": "http://optifine.net/adloadx?f=preview_OptiFine_1.18.2_HD_U_H9_pre2.jar",
+        "forge_version": "Forge 40.1.85",
+        "release_date": "14.11.2022",
+        "mc_version": "1.18.2",
+        "type": "pre",
+        "hash": "15b99bc43f32d58d1f34acbc2951b765"
+    },
+    "preview_OptiFine_1.18.2_HD_U_H9_pre1": {
+        "version": "OptiFine HD U H9 pre1",
+        "download_url": "http://optifine.net/adloadx?f=preview_OptiFine_1.18.2_HD_U_H9_pre1.jar",
+        "forge_version": "Forge 40.1.73",
+        "release_date": "23.08.2022",
+        "mc_version": "1.18.2",
+        "type": "pre",
+        "hash": "592b6afc095a3af496dc495030e4f44d"
+    },
+    "preview_OptiFine_1.18.2_HD_U_H8_pre1": {
+        "version": "OptiFine HD U H8 pre1",
+        "download_url": "http://optifine.net/adloadx?f=preview_OptiFine_1.18.2_HD_U_H8_pre1.jar",
+        "forge_version": "Forge 40.1.73",
+        "release_date": "23.08.2022",
+        "mc_version": "1.18.2",
+        "type": "pre",
+        "hash": "7bf64ae455adf71e0cca111a87dcd48b"
+    },
+    "preview_OptiFine_1.17.1_HD_U_H2_pre1": {
+        "version": "OptiFine HD U H2 pre1",
+        "download_url": "http://optifine.net/adloadx?f=preview_OptiFine_1.17.1_HD_U_H2_pre1.jar",
+        "forge_version": "Forge 37.0.103",
+        "release_date": "04.11.2021",
+        "mc_version": "1.17.1",
+        "type": "pre",
+        "hash": "056f1782b535d069d0fcdd99e9c73943"
+    },
+    "preview_OptiFine_1.17_HD_U_G9_pre26": {
+        "version": "OptiFine HD U G9 pre26",
+        "download_url": "http://optifine.net/adloadx?f=preview_OptiFine_1.17_HD_U_G9_pre26.jar",
+        "forge_version": "Forge N/A",
+        "release_date": "09.07.2021",
+        "mc_version": "1.17",
+        "type": "pre",
+        "hash": "ac60df9b3940e9187122b3d3149a0b78"
+    },
+    "preview_OptiFine_1.17_HD_U_G9_pre25": {
+        "version": "OptiFine HD U G9 pre25",
+        "download_url": "http://optifine.net/adloadx?f=preview_OptiFine_1.17_HD_U_G9_pre25.jar",
+        "forge_version": "Forge N/A",
+        "release_date": "06.07.2021",
+        "mc_version": "1.17",
+        "type": "pre",
+        "hash": "0c2b28552371eb83c835c62ce1fa49c2"
+    },
+    "preview_OptiFine_1.12.2_HD_U_G6_pre1": {
+        "version": "OptiFine HD U G6 pre1",
+        "download_url": "http://optifine.net/adloadx?f=preview_OptiFine_1.12.2_HD_U_G6_pre1.jar",
+        "forge_version": "Forge #2847",
+        "release_date": "23.03.2021",
+        "mc_version": "1.12.2",
+        "type": "pre",
+        "hash": "9ee4100b8d430f8c8aa82e6f3b13b87e"
+    },
+    "preview_OptiFine_1.8.9_HD_U_M6_pre2": {
+        "version": "OptiFine HD U M6 pre2",
+        "download_url": "http://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar",
+        "forge_version": "Forge #1902",
+        "release_date": "01.11.2021",
+        "mc_version": "1.8.9",
+        "type": "pre",
+        "hash": "7372b982a428656b7a1029c5b42cbf3d"
+    },
+    "preview_OptiFine_1.8.9_HD_U_M6_pre1": {
+        "version": "OptiFine HD U M6 pre1",
+        "download_url": "http://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre1.jar",
+        "forge_version": "Forge #1902",
+        "release_date": "26.03.2021",
+        "mc_version": "1.8.9",
+        "type": "pre",
+        "hash": "1d3b7e92eae2ee95f67eb27b735da232"
+    }
+}
