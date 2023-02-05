@@ -101,7 +101,8 @@ def main():
         for obj in opt_info:
             tasks.append(executor.submit(process_optifine_info, opt_info[obj]))
         for result in tasks:
-            opt_info.update(result.result())
+            for index_ in result.result():
+                results[index_] = result.result()[index_]
     with open("results.json", "w") as f:
         json.dump(results, f, indent=4)
 
