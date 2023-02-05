@@ -104,7 +104,7 @@ def main():
             for obj in result.result():
                 opt_info[obj] = result.result()[obj]
     with open("results.json", "w") as f:
-        json.dump(results, f, indent=4)
+        json.dump(opt_info, f, indent=4)
 
 if __name__ == "__main__":
     main()
