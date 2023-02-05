@@ -6,7 +6,7 @@ import json
 import os
 import hashlib
 
-proxy = None
+proxy = {"http": "http://127.0.0.1:7890", "https": "http://127.0.0.1:7890"}
 
 def file_hash(file_path: str) -> str:
     h = hashlib.md5()
@@ -93,12 +93,14 @@ def main():
     new_opt_info = get_optifine_info()
     opt_info.update(new_opt_info)
     results = []
+    tasks = []
     if not os.path.exists("cache"):
         os.mkdir("cache")
     with ThreadPoolExecutor(max_workers=64) as executor:
         for obj in opt_info:
-            results.append(executor.submit(process_optifine_info, opt_info[obj]))
-        results = [result.result() for result in results]
+            tasks.append(executor.submit(process_optifine_info, opt_info[obj]))
+        for result in tasks:
+            opt_info.update(result.result())
     with open("results.json", "w") as f:
         json.dump(results, f, indent=4)
 
