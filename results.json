@@ -1708,5 +1708,14 @@
         "mc_version": "1.19.4",
         "type": "pre",
         "hash": "4c3fc7429b2d62541556963d01276d20"
+    },
+    "preview_OptiFine_1.19.4_HD_U_I3_pre5": {
+        "version": "OptiFine HD U I3 pre5",
+        "download_url": "http://optifine.net/adloadx?f=preview_OptiFine_1.19.4_HD_U_I3_pre5.jar",
+        "forge_version": "Forge 45.0.9",
+        "release_date": "20.03.2023",
+        "mc_version": "1.19.4",
+        "type": "pre",
+        "hash": "85ac77ef73066477fa7e29f20b103270"
     }
 }
