@@ -1716,7 +1716,7 @@
         "release_date": "20.03.2023",
         "mc_version": "1.19.4",
         "type": "pre",
-        "hash": "85ac77ef73066477fa7e29f20b103270"
+        "hash": "4845f01eaa8068384625e302e9a4eb05"
     },
     "preview_OptiFine_1.19.4_HD_U_I3_pre6": {
         "version": "OptiFine HD U I3 pre6",
@@ -1735,5 +1735,14 @@
         "mc_version": "1.19.4",
         "type": "pre",
         "hash": "a7a61cd20b296dd60945de93a10a9463"
+    },
+    "preview_OptiFine_1.19.4_HD_U_I3_pre8": {
+        "version": "OptiFine HD U I3 pre8",
+        "download_url": "http://optifine.net/adloadx?f=preview_OptiFine_1.19.4_HD_U_I3_pre8.jar",
+        "forge_version": "Forge 45.0.9",
+        "release_date": "22.03.2023",
+        "mc_version": "1.19.4",
+        "type": "pre",
+        "hash": "901a7defd042c685817fd4468f1a0b89"
     }
 }
