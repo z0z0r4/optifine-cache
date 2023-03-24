@@ -1734,7 +1734,7 @@
         "release_date": "21.03.2023",
         "mc_version": "1.19.4",
         "type": "pre",
-        "hash": "a7a61cd20b296dd60945de93a10a9463"
+        "hash": "4845f01eaa8068384625e302e9a4eb05"
     },
     "preview_OptiFine_1.19.4_HD_U_I3_pre8": {
         "version": "OptiFine HD U I3 pre8",
@@ -1743,7 +1743,7 @@
         "release_date": "22.03.2023",
         "mc_version": "1.19.4",
         "type": "pre",
-        "hash": "901a7defd042c685817fd4468f1a0b89"
+        "hash": "4845f01eaa8068384625e302e9a4eb05"
     },
     "preview_OptiFine_1.19.4_HD_U_I3_pre9": {
         "version": "OptiFine HD U I3 pre9",
@@ -1752,6 +1752,33 @@
         "release_date": "22.03.2023",
         "mc_version": "1.19.4",
         "type": "pre",
+        "hash": "4845f01eaa8068384625e302e9a4eb05"
+    },
+    "preview_OptiFine_1.19.4_HD_U_I3_pre10": {
+        "version": "OptiFine HD U I3 pre10",
+        "download_url": "http://optifine.net/adloadx?f=preview_OptiFine_1.19.4_HD_U_I3_pre10.jar",
+        "forge_version": "Forge 45.0.22",
+        "release_date": "23.03.2023",
+        "mc_version": "1.19.4",
+        "type": "pre",
+        "hash": "ebc6113d0ddcc060327b69e54df4ab9a"
+    },
+    "preview_OptiFine_1.19.4_HD_U_I3_pre09": {
+        "version": "OptiFine HD U I3 pre09",
+        "download_url": "http://optifine.net/adloadx?f=preview_OptiFine_1.19.4_HD_U_I3_pre09.jar",
+        "forge_version": "Forge 45.0.9",
+        "release_date": "22.03.2023",
+        "mc_version": "1.19.4",
+        "type": "pre",
         "hash": "dbe48ddfcf900f37fef91bd26495973c"
+    },
+    "preview_OptiFine_1.19.4_HD_U_I3_pre08": {
+        "version": "OptiFine HD U I3 pre08",
+        "download_url": "http://optifine.net/adloadx?f=preview_OptiFine_1.19.4_HD_U_I3_pre08.jar",
+        "forge_version": "Forge 45.0.9",
+        "release_date": "22.03.2023",
+        "mc_version": "1.19.4",
+        "type": "pre",
+        "hash": "901a7defd042c685817fd4468f1a0b89"
     }
 }
