@@ -1860,7 +1860,7 @@
         "release_date": "07.06.2023",
         "mc_version": "1.20",
         "type": "pre",
-        "hash": "007efa4619723eaaa720cff1ca2d9af6"
+        "hash": "4845f01eaa8068384625e302e9a4eb05"
     },
     "preview_OptiFine_1.20.1_HD_U_I5_pre4": {
         "version": "OptiFine HD U I5 pre4",
@@ -1869,7 +1869,7 @@
         "release_date": "21.06.2023",
         "mc_version": "1.20.1",
         "type": "pre",
-        "hash": "a4ca361f82525de478ca470e43cefdac"
+        "hash": "4845f01eaa8068384625e302e9a4eb05"
     },
     "preview_OptiFine_1.20_HD_U_I5_pre4": {
         "version": "OptiFine HD U I5 pre4",
@@ -1887,7 +1887,7 @@
         "release_date": "22.06.2023",
         "mc_version": "1.20.1",
         "type": "pre",
-        "hash": "89d0b5ee538ae1902108d0e9faa805f8"
+        "hash": "4845f01eaa8068384625e302e9a4eb05"
     },
     "preview_OptiFine_1.20_HD_U_I5_pre5": {
         "version": "OptiFine HD U I5 pre5",
@@ -1924,5 +1924,14 @@
         "mc_version": "1.18.2",
         "type": "release",
         "hash": "558caa51edcfe01d78aeb63dcdee04e6"
+    },
+    "preview_OptiFine_1.20.1_HD_U_I5_pre7": {
+        "version": "OptiFine HD U I5 pre7",
+        "download_url": "http://optifine.net/adloadx?f=preview_OptiFine_1.20.1_HD_U_I5_pre7.jar",
+        "forge_version": "Forge 47.0.35",
+        "release_date": "30.06.2023",
+        "mc_version": "1.20.1",
+        "type": "pre",
+        "hash": "6a6009695b9baf4e7c8fc9ed73f4cb86"
     }
 }
