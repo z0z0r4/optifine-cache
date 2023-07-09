@@ -1960,5 +1960,14 @@
         "mc_version": "1.20.1",
         "type": "release",
         "hash": "3f2cbfe066a529a18c844ec42d1ddb6f"
+    },
+    "preview_OptiFine_1.20.1_HD_U_I6_pre1": {
+        "version": "OptiFine HD U I6 pre1",
+        "download_url": "http://optifine.net/adloadx?f=preview_OptiFine_1.20.1_HD_U_I6_pre1.jar",
+        "forge_version": "Forge 47.0.35",
+        "release_date": "08.07.2023",
+        "mc_version": "1.20.1",
+        "type": "pre",
+        "hash": "ec7205911de1cc5ce4142a090a301557"
     }
 }
