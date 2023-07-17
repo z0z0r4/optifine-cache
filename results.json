@@ -1969,5 +1969,23 @@
         "mc_version": "1.20.1",
         "type": "pre",
         "hash": "ec7205911de1cc5ce4142a090a301557"
+    },
+    "preview_OptiFine_1.20.1_HD_U_I6_pre3": {
+        "version": "OptiFine HD U I6 pre3",
+        "download_url": "http://optifine.net/adloadx?f=preview_OptiFine_1.20.1_HD_U_I6_pre3.jar",
+        "forge_version": "Forge 47.0.35",
+        "release_date": "16.07.2023",
+        "mc_version": "1.20.1",
+        "type": "pre",
+        "hash": "f120c0f4e90cdbe000013c46d8076b1f"
+    },
+    "preview_OptiFine_1.20.1_HD_U_I6_pre2": {
+        "version": "OptiFine HD U I6 pre2",
+        "download_url": "http://optifine.net/adloadx?f=preview_OptiFine_1.20.1_HD_U_I6_pre2.jar",
+        "forge_version": "Forge 47.0.35",
+        "release_date": "09.07.2023",
+        "mc_version": "1.20.1",
+        "type": "pre",
+        "hash": "b17bb89ea7a9d4a8168d0a64644cf621"
     }
 }
